@@ -1,0 +1,21 @@
+footer {
+  text-align: center;
+}
+
+.scroll {
+  display: inline-block;
+  background-color: #FCD8D4;
+  width: 30%;
+  height: 100px;
+  overflow: scroll;
+}
+
+body {
+  display: table;
+}
+
+.table {
+  display: table-cell;
+  background-color: #F1ECC3;
+  width: 30%;
+}
